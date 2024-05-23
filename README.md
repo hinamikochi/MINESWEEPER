@@ -6,3 +6,13 @@
 
 
 ## Game: MINESWEEPER
+![image](https://github.com/hinamikochi/MINESWEEPER/assets/161490640/323c1d82-13b9-4bb8-9ea8-a3c5d9a46071)
+
+## Mô tả trò chơi: Dựa trên trò chơi quen thuộc với mọi người từng sử dụng Window, trò chơi yêu cầu ta mở các ô vuông (bằng cách bấm chuột trái) và sẽ kết thúc nếu người chơi mở được tất cả các ô không có mìn (nếu ta phân vân ô có mìn có thể bấm chuột phải)
+
+## Các thư viện sử dụng:
+### - SDL2
+### - SDL2 IMAGE
+### - SDL2 MIXER
+### - SDL2 TTF
+
